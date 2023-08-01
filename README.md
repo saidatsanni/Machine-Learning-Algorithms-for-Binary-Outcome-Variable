@@ -25,7 +25,7 @@ The German credit score dataset consists of 7000 observations and 21 different q
 
 **Major Findings and Conclusion**
 
-[Model Comparisonhttps://github.com/saidatsanni/Machine-Learning-Algorithms-for-Binary-Outcome-Variable/blob/a9e9cadfe76988ec34709bc649e55b7a78738e09/Model%20Comparison_Credit.jpg
+![image](https://github.com/saidatsanni/Machine-Learning-Algorithms-for-Binary-Outcome-Variable/assets/139437600/e95105a6-3ffe-4298-a641-8743dc392792)
 
 
 **The data set is split into 70% Training data and 30% Testing data**
