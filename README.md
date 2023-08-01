@@ -2,12 +2,12 @@
 
 **Goal**
 
-The goal of this study is to conduct a comprehensive predictive analysis of credit default probability and identify the model that provides the best prediction accuracy. Machine Learning methods such as Logistic Regression Models, Variable Selection, Classification Trees, Bagging, Random Forest, Boosted Regression Trees, Generalized Additive Models, and Neural Networks are considered. The model performances are assessed using the Area Under the Curve and Misclassification Rate.
+The goal of this study is to conduct a comprehensive analysis, build a predictive model to predict whether an applicant is considered a good or bad credit risk and, identify the model that provides the best prediction accuracy. Machine Learning methods such as Logistic Regression Models, Variable Selection, Classification Trees, Bagging, Random Forest, Boosted Regression Trees, Generalized Additive Models, and Neural Networks are considered. The model performances are assessed using the Area Under the Curve and Misclassification Rate.
 
 
 **Data**
 
-The German credit score dataset consists of 7000 observations and 21 different quantitative variables. 
+The German Credit Data contains data on 20 variables and the classification of whether an applicant is considered a Good or Bad credit risk for 1000 loan applicants. The data can be found [here](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 
 **Statistical Techniques**
 
