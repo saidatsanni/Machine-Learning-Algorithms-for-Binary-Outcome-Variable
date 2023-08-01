@@ -25,8 +25,7 @@ The German credit score dataset consists of 7000 observations and 21 different q
 
 **Major Findings and Conclusion**
 
-![image](https://github.com/saidatsanni/Machine-Learning-Algorithms-for-Binary-Outcome-Variable/assets/139437600/e95105a6-3ffe-4298-a641-8743dc392792)
-
+![image](https://github.com/saidatsanni/Machine-Learning-Algorithms-for-Binary-Outcome-Variable/assets/139437600/1287ab25-5c90-4910-89c2-09858bc04aa4)
 
 **The data set is split into 70% Training data and 30% Testing data**
 **AMR represents Asymmetric Misclassification Rate (5:1 asymmetric cost)**
