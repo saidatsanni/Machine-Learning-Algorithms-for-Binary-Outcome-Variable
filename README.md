@@ -2,7 +2,7 @@
 
 **Goal**
 
-The goal of this study is to conduct a comprehensive analysis, build a predictive model to predict whether an applicant is considered a good or bad credit risk and, identify the model that provides the best prediction accuracy. Machine Learning methods such as Logistic Regression Models, Variable Selection, Classification Trees, Bagging, Random Forest, Boosted Regression Trees, Generalized Additive Models, and Neural Networks are considered. The model performances are assessed using the Area Under the Curve and Misclassification Rate.
+The goal of this study is to conduct a comprehensive analysis, build a predictive model to predict whether an applicant is considered a good or bad credit risk, and identify the model that provides the best prediction accuracy. Machine Learning methods such as Logistic Regression Models, Variable Selection, Classification Trees, Bagging, Random Forest, Boosted Regression Trees, Generalized Additive Models, and Neural Networks are considered. The model performances are visualized using the ROC Curve and Confusion Matrix. Assessment and selection of the best model is conducted using the Area Under the Curve, and Misclassification Rate (symmetric and asymmetric).
 
 
 **Data**
